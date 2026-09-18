@@ -1,4 +1,8 @@
-# Práctica 3: Python — <Nombre y Apellidos>
+# Práctica 3: Python — Christian Salguero Varas
+
+[Ver Notebook](notebooks/practica3_python.ipynb)
+
+---
 
 ## Descripción
 Resolución de los 20 ejercicios de la Práctica 3 sobre listas, funciones y
